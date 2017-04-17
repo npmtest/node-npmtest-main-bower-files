@@ -1,7 +1,7 @@
 # test coverage for  [main-bower-files (v2.13.1)](https://github.com/ck86/main-bower-files)  [![npm package](https://img.shields.io/npm/v/npmtest-main-bower-files.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-main-bower-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-main-bower-files.svg)](https://travis-ci.org/npmtest/node-npmtest-main-bower-files)
 #### Get main files from your installed bower packages.
 
-[![NPM](https://nodei.co/npm/main-bower-files.png?downloads=true)](https://www.npmjs.com/package/main-bower-files)
+[![NPM](https://nodei.co/npm/main-bower-files.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/main-bower-files)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-main-bower-files/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-main-bower-files/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-main-bower-files/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-main-bower-files/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-main-bower-files/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-main-bower-files%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-main-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-main-bower-files/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-main-bower-files%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-main-bower-files/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-main-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-main-bower-files/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-main-bower-files/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-main-bower-files/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-main-bower-files/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-main-bower-files/build/screenCapture.npmPackageListing.svg)
 
@@ -65,17 +71,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "cknoetschke",
-            "email": "cknoetschke@gmail.com"
+            "name": "cknoetschke"
         },
         {
-            "name": "trysound",
-            "email": "trysound@yandex.ru"
+            "name": "trysound"
         }
     ],
     "name": "main-bower-files",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/ck86/main-bower-files.git"
