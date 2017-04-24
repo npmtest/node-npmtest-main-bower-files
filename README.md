@@ -1,4 +1,7 @@
-# test coverage for  [main-bower-files (v2.13.1)](https://github.com/ck86/main-bower-files)  [![npm package](https://img.shields.io/npm/v/npmtest-main-bower-files.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-main-bower-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-main-bower-files.svg)](https://travis-ci.org/npmtest/node-npmtest-main-bower-files)
+# npmtest-main-bower-files
+
+#### basic test coverage for  [main-bower-files (v2.13.1)](https://github.com/ck86/main-bower-files)  [![npm package](https://img.shields.io/npm/v/npmtest-main-bower-files.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-main-bower-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-main-bower-files.svg)](https://travis-ci.org/npmtest/node-npmtest-main-bower-files)
+
 #### Get main files from your installed bower packages.
 
 [![NPM](https://nodei.co/npm/main-bower-files.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/main-bower-files)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-main-bower-files/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-main-bower-files/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-main-bower-files/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-main-bower-files/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-main-bower-files/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-main-bower-files/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-main-bower-files/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-main-bower-files/build/coverage.html/index.html)
 
@@ -86,7 +89,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "2.13.1"
+    "version": "2.13.1",
+    "bin": {}
 }
 ```
 
